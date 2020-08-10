@@ -1,0 +1,17 @@
+/*!
+ * Copyright (C) 2020 https://better-web.net/ - A project by Vladyslav Sedenko, Patryk Lauf. All rights reserved.
+ */@media (min-width: 1200px) {
+  .container {
+    max-width: 1200px;
+  }
+}
+
+@media (max-width: 767px) {
+  .simplePage__bgMobile {
+    display: block;
+  }
+
+  .simplePage__video {
+    display: none;
+  }
+}
