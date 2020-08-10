@@ -8,9 +8,9 @@ This template you can use for free for your car business :)
 
 **Screenshots - Download the Template to See What Inside**
 
-![Website template](https://better-web.net/images/original/bmoto/4.jpg)
+![Website template](https://www.dropbox.com/s/cs9rq6ckkr05olz/bmoto_free.png?dl=1)
 
-**Want more?**
+**Want more?** 
 
 B-Moto is a graphically polished, interactive, easily customizable, highly modern, fast loading, search engine optimized, well documented and structured, vibrant and automatically adjusts to the screen sizes and looks good on all the screens.
 
@@ -36,6 +36,7 @@ You can buy full version and support us by this [link](https://better-web.net/te
  -  Pricing tables
  -  Lifetime free updates
 
+![Website template](https://www.dropbox.com/s/7u359zm1he0jge5/1.jpg?dl=1)
 
 **License**
 
